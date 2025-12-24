@@ -1,0 +1,5 @@
+{
+  "name": "ChronosTimeline",
+  "description": "A professional timeline creation tool with layers, zoomed views, and interactive event management.",
+  "requestFramePermissions": []
+}
